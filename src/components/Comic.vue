@@ -106,7 +106,6 @@ export default {
       return Math.floor(Math.random() * until) + 1;
     },
     nextComic() {
-      this.randomRating = this.randomNum(5);
       this.imageReady = !this.imageReady;
       this.rating = null;
       this.isLoaded = !this.isLoaded;
