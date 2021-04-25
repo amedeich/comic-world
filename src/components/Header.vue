@@ -2,7 +2,7 @@
   <v-card class="overflow-hidden">
     <v-app-bar app color="primary">
       <v-toolbar-title class="header subheading font-weight-regular"
-        >ComicWorld</v-toolbar-title
+        >ComicWorld!!</v-toolbar-title
       >
       <v-spacer></v-spacer>
       <div>
@@ -27,6 +27,8 @@
   border-bottom: 2px solid #fdd402;
   border-bottom-width: medium;
   padding-left: 0 !important;
+  font-family: comic-header;
+  transform: rotate(-5deg);
 }
 .subheader {
   font-size: 18px;

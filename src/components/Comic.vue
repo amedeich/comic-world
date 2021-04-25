@@ -51,7 +51,7 @@
           v-if="imageReady"
           style="display: flex; justify-content: center; margin-right: 12px"
         >
-          <v-btn @click="nextComic" text color="primary">
+          <v-btn @click="nextComic" text strong color="primary">
             Ver otro Comic
           </v-btn>
         </div>
