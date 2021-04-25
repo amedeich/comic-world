@@ -1,24 +1,17 @@
-# comicworld
+# ComicWorld
 
-## Project setup
-```
+Explora Comics y recomiendalos si te gustan
+
+## Installation
+
+```bash
 yarn install
-```
-
-### Compiles and hot-reloads for development
-```
+cd comicworld
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Live Server
 
-### Lints and fixes files
+```bash
+https://comicapp-e9531.web.app
 ```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
