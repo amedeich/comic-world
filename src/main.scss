@@ -1,0 +1,10 @@
+@font-face {
+  src: url("assets/fonts/NewTegomin-Regular.ttf");
+  font-family: "comic-font";
+}
+
+html,
+body,
+.v-application {
+  font-family: "comic-font", serif !important;
+}
