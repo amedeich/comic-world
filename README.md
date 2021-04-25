@@ -1,6 +1,6 @@
 # ComicWorld
 
-Explora Comics y recomiendalos si te gustan
+¡Explora Comics en todo el mundo!
 
 ## Installation
 
