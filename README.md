@@ -6,7 +6,7 @@
 
 ```bash
 git clone https://github.com/amedeich/comic-world.git
-cd comicworld
+cd comic-world
 yarn install
 yarn serve
 ```
