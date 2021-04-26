@@ -6,7 +6,6 @@ module.exports = {
   extends: [
     "prettier",
     "prettier/vue",
-    "@nuxtjs",
     "plugin:nuxt/recommended",
     "plugin:vue/essential",
     "eslint:recommended",
