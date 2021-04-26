@@ -5,8 +5,9 @@
 ## Installation
 
 ```bash
-yarn install
+git clone https://github.com/amedeich/comic-world.git
 cd comicworld
+yarn install
 yarn serve
 ```
 
